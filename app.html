@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <!--Emoji CSS by https://afeld.github.io/emoji-css/-->
+  <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+  <title>Points of Interest - Egypt</title>
+</head>
+<body>
+  <section id="container">
+    <aside id="places-list">
+        <input data-bind="textInput: searchInput" id="search-bar" type="text" name="" value="" placeholder="Search for a POI...">
+      <ul id="list-of-places" data-bind="foreach: filteredResult">
+        <li class="place" data-bind="text: $data.name, click: bounceOnListItemClick"></li>
+      </ul>
+    <div class="hidden" id="foursquare-load-fail">We are sorry but there was an error in the foursquare API. Please try again later <i class="em em-cry"></i> <i class="em em-angry"></i>
+    </div>
+    </aside>
+    <section id="map">
+      <p id="loading">Loading map, please wait...</p>
+    </section>
+  </section>
+</body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.4.2/knockout-min.js"></script>
+<script src="js/application.js"></script>
+<script onerror="failedToFetch()" async defer src="https://maps.googleapis.com/maps/api/js?v=3&key=AIzaSyA1PAQJAYQfsCYKq0YfLpoETWBtxHCXZdk&callback=init">
+</script>
+</html>
