@@ -7,7 +7,7 @@
 * Emoji CSS Stylesheet
 
 ### To run the application, simply do the following:
-1. Download the zipped folder.
+1. Download the zipped folder (You can find it here https://github.com/DarthMadi/Places-I-d-Like-to-visit/archive/master.zip)
 2. Open index.html in your favorite browser.
 3. Thats it! :D
 
