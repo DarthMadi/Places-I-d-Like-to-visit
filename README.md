@@ -7,7 +7,7 @@
 * Emoji CSS Stylesheet
 
 ## To run the application, simply do the following:
-1. Download the zipped folder (You can find it here https://github.com/DarthMadi/madiMaps/archive/master.zip)
+1. Download the zipped folder (You can find it here https://github.com/commanderMadi/madiMaps/archive/master.zip)
 2. Open index.html in your favorite browser.
 3. Or you can just go to https://commandermadi.github.io/madiMaps
 
