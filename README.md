@@ -1,5 +1,7 @@
 # Hotspots Map Application.
 
+## Developed by Ahmed Magdy as part of the Udacity Front-End Nanodegree Program.
+
 ## Frameworks and APIs Used
 * Google Maps API
 * FourSquare API
