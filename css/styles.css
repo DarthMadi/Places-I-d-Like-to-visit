@@ -18,12 +18,9 @@
     height: 100vh;
 }
 
-.version {
+.version-disclaimer {
   text-align: center;
   color: #fff;
-  position: absolute;
-  top: 98%;
-  left: 1%;
 }
 
 #map {
