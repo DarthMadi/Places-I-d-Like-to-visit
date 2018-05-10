@@ -1,6 +1,6 @@
 # Hotspots Map Application.
 
-## Developed by Ahmed Magdy as part of the Udacity Front-End Nanodegree Program.
+### Developed by Ahmed Magdy as part of the Udacity Front-End Nanodegree Program.
 
 ## Frameworks and APIs Used
 * Google Maps API
@@ -30,3 +30,5 @@ It shows points of interest in one of the most tourist-attractive spots on Earth
 * Dozen more points of interests will be added.
 * More information about each POI will be shown when you click on the marker.
 * A new design will be integrated.
+
+## Copyright 2018 Ahmed Magdy.
