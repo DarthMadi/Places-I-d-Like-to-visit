@@ -31,4 +31,4 @@ It shows points of interest in one of the most tourist-attractive spots on Earth
 * More information about each POI will be shown when you click on the marker.
 * A new design will be integrated.
 
-## Copyright 2018 Ahmed Magdy.
+### Copyright 2018 Ahmed Magdy.
