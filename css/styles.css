@@ -18,6 +18,14 @@
     height: 100vh;
 }
 
+.version {
+  text-align: center;
+  color: #fff;
+  position: absolute;
+  top: 98%;
+  left: 1%;
+}
+
 #map {
     display: inherit;
     background-color: rgb(150, 217, 202);
